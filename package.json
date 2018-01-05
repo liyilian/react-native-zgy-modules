@@ -1,0 +1,59 @@
+{
+  "name": "react-native-zgy-modules",
+  "version": "0.0.1",
+  "description": "react native项目需要的基础建设",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyilian/react-native-zgy-modules.git"
+  },
+  "keywords": [
+    "haha"
+  ],
+  "author": "zhaoguangyin",
+  "license": "ISC",
+  "dependencies": {
+    "events": "1.0.2",
+    "react-native-fs":"2.5.1",
+    "react-native-image-zoom-viewer": "^2.0.16",
+    "react-native-navigation": "^1.1.311",
+    "react-native-storage": "^0.2.2",
+    "react-native-linear-gradient": "^2.3.0",
+    "react-navigation": "^1.0.0-beta.22",
+    "react-native-vector-icons": "^4.4.3",
+    "react-navigation-props-mapper": "^0.1.2"
+  },
+  "rnpm": {
+    "ios": {
+      "sharedLibraries": [
+        "libiconv",
+        "libsqlite3",
+        "libstdc++",
+        "libz",
+        "libc++",
+        "Security",
+        "CoreTelephony",
+        "CFNetwork",
+        "SystemConfiguration",
+        "QuartzCore",
+        "ImageIO",
+        "CoreText",
+        "CoreGraphics",
+        "Photos",
+        "CoreMotion",
+        "Foundation",
+        "UIKit"
+      ]
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/liyilian/react-native-zgy-modules/issues"
+  },
+  "homepage": "https://github.com/liyilian/react-native-zgy-modules#readme"
+}
