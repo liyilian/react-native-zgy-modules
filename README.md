@@ -1,6 +1,6 @@
 [![tag](https://img.shields.io/badge/tag-0.1.201712211518-blue.svg)](https://github.com/jpush/jpush-react-native/releases)
 [![QQ Group](https://img.shields.io/badge/develop%20Group-爱拼机app基础建设-red.svg)]()
-# react-native-librarys
+# react-native-zgy-modules
 ***
 RN开发的依赖包 支持双平台
 #### 文件目录
